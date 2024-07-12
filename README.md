@@ -6,6 +6,6 @@
 
 </details>
 
-# Ratthew
+# Matthew Martin
 
 ## Introduction
