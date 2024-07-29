@@ -1,7 +1,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Ratthew](#ratthew)
+- [Matthew Martin](#matthew-martin)
   - [Introduction](#introduction)
 
 </details>
