@@ -2,4 +2,4 @@
 
 **Website:** [mmnorman.com](https://mmnorman.com/)
 
-**Focus:** [`os`](https://github.com/rtthw/os)
+**Focus:** [`rhubarb`](https://github.com/rtthw/rhubarb)
